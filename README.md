@@ -16,19 +16,24 @@ Project in the context of Data Analysis self-learning
 
 <br>
 
-### &#127919; Project's step
+## &#x1F4DD; Project graph
+
+<br>
+
+<p align="center"> 
+  <img width="934" height="178" alt="Capture d’écran 2026-04-16 à 11 41 28" 
+  src="https://github.com/user-attachments/assets/174605e3-f51e-4dc9-843a-4865f06e6817" />
+</p>
+
+<br>
+
+### &#127919; Project step
 * Retrieve, prepare and clean data with (`JupyterLab`), from a Kaggle movies dataset `csv` file
 * Import clean dataset into (`MySQL`)
 * Transfer data from (`MySQL`) to the dashboarding tool (`Power Bi`) running on a virtual machine (`parallels`)
 * Build a dashboard leading to relevant decisions concerning project's data.
 
-<br>
-<br>
-<br>
 
-<p align="center"> 
-  <img width="934" height="178" alt="Capture d’écran 2026-04-16 à 11 41 28" 
-  src="https://github.com/user-attachments/assets/174605e3-f51e-4dc9-843a-4865f06e6817" />
-</p>
+
 
 
